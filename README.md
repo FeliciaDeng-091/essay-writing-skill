@@ -9,6 +9,8 @@ Plan the structure with your AI-->Prepare original material with notebookLM in o
 This skill is mainly applicable to English. The writing norms are derived from my TOEFL study experience and my experience in writing academic reports. The AI detection rate is around 20%. Currently, it has produced results in the fields of philosophy and cultural heritage.
 
 这个SKILL专用于学术论文写作，尤其适用于人文科学和社会科学领域。特别适合需要具有批判性的论文报告。
+目前它尚不具备任何结构规划功能，只会参与到论文最终输出的流程
+经过测试，目前最佳的模型是 opus4.6 和 4.7
 
 推荐工作流：
 1. 把论文要求（用人工智能）规划结构

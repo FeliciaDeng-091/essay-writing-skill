@@ -19,3 +19,6 @@ This skill is mainly applicable to English. The writing norms are derived from m
 4. 将文章退回进行再次检查，并使用该技能对其进行改进
 
 本skill主要适用于英文，写作规范来自于本人的TOEFL学习经历与论文报告写作经历，AI检测率为20左右，当前已经在哲学、文化遗产相关领域进行产出。
+
+v0-fundamental and structual skill is built
+v1-AIGC detection reduction is added
